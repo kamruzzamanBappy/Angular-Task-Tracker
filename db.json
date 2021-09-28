@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Meeting at University",
+      "day": "Oct 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Doctor Counciling",
+      "day": "Oct 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Shooping",
+      "day": "Oct 8th at 4:30pm",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Travelling",
+      "day": "Oct 10th at 10:30pm",
+      "reminder": false
+    }
+  ]
+}
